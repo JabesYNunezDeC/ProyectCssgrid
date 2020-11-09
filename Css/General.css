@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: #eeeeee;
+}
+#title{
+	font-family: roboto;
+	font-size: 50px;
+	width: 600px;
+	margin: 5px auto;
+	text-align: center;
+}
+
+.contenedor{
+	border:solid 30px #000;
+	line-height: 50px;
+	font-size: 50px;
+	font-family: roboto;
+	color:#fff;
+	width: 1000px;
+	margin: 15px auto;
+	text-align: center;
+}
+.contenedor div{
+	margin: 1px;
+	background: #107E7D;
+	border:solid 5px #13908E;
+	padding: 20px;
+}
